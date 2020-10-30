@@ -45,29 +45,127 @@ class HomeIndex extends React.Component {
                         </article>
                         <article style={{backgroundImage: `url(${pic03})`}}>
                             <header className="major">
-                                <h3>Magna</h3>
-                                <p>Lorem etiam nullam</p>
+                                <h3>Ruu Akashi</h3>
+                                <p>Prop</p>
                             </header>
                             <Link to="/landing" className="link primary"></Link>
                         </article>
                         <article style={{backgroundImage: `url(${pic04})`}}>
                             <header className="major">
-                                <h3>Ipsum</h3>
-                                <p>Nisl sed aliquam</p>
+                                <h3>Ryo Kawagoe</h3>
+                                <p>Hooker</p>
                             </header>
                             <Link to="/landing" className="link primary"></Link>
                         </article>
                         <article style={{backgroundImage: `url(${pic05})`}}>
                             <header className="major">
-                                <h3>Consequat</h3>
-                                <p>Ipsum dolor sit amet</p>
+                                <h3>Sho Inada</h3>
+                                <p>Prop</p>
                             </header>
                             <Link to="/landing" className="link primary"></Link>
                         </article>
                         <article style={{backgroundImage: `url(${pic06})`}}>
                             <header className="major">
-                                <h3>Etiam</h3>
-                                <p>Feugiat amet tempus</p>
+                                <h3>Rikuto Niimura</h3>
+                                <p>Lock</p>
+                            </header>
+                            <Link to="/landing" className="link primary"></Link>
+                        </article>
+                        <article style={{backgroundImage: `url(${pic01})`}}>
+                            <header className="major">
+                                <h3>Haruto Shirouchi</h3>
+                                <p>Centre</p>
+                            </header>
+                            <Link to="/landing" className="link primary"></Link>
+                        </article>
+                        <article style={{backgroundImage: `url(${pic02})`}}>
+                            <header className="major">
+                                <h3>Kizuna Maeda</h3>
+                                <p>Prop</p>
+                            </header>
+                            <Link to="/landing" className="link primary"></Link>
+                        </article>
+                        <article style={{backgroundImage: `url(${pic03})`}}>
+                            <header className="major">
+                                <h3>Atsuto Okada</h3>
+                                <p>Prop</p>
+                            </header>
+                            <Link to="/landing" className="link primary"></Link>
+                        </article>
+                        <article style={{backgroundImage: `url(${pic04})`}}>
+                            <header className="major">
+                                <h3>Kensei Hayasaka</h3>
+                                <p>Prop</p>
+                            </header>
+                            <Link to="/landing" className="link primary"></Link>
+                        </article>
+                        <article style={{backgroundImage: `url(${pic05})`}}>
+                            <header className="major">
+                                <h3>Kouei Tanigawa</h3>
+                                <p>Prop</p>
+                            </header>
+                            <Link to="/landing" className="link primary"></Link>
+                        </article>
+                        <article style={{backgroundImage: `url(${pic06})`}}>
+                            <header className="major">
+                                <h3>Towa Miyake</h3>
+                                <p>Flanker</p>
+                            </header>
+                            <Link to="/landing" className="link primary"></Link>
+                        </article>
+                        <article style={{backgroundImage: `url(${pic01})`}}>
+                            <header className="major">
+                                <h3>Rei Hashimoto</h3>
+                                <p>Flanker</p>
+                            </header>
+                            <Link to="/landing" className="link primary"></Link>
+                        </article>
+                        <article style={{backgroundImage: `url(${pic02})`}}>
+                            <header className="major">
+                                <h3>Reo Hashimoto</h3>
+                                <p>Scrum Half</p>
+                            </header>
+                            <Link to="/landing" className="link primary"></Link>
+                        </article>
+                        <article style={{backgroundImage: `url(${pic03})`}}>
+                            <header className="major">
+                                <h3>Tomoya Ariki</h3>
+                                <p>Centre</p>
+                            </header>
+                            <Link to="/landing" className="link primary"></Link>
+                        </article>
+                        <article style={{backgroundImage: `url(${pic04})`}}>
+                            <header className="major">
+                                <h3>Naoto Irie</h3>
+                                <p>Wing</p>
+                            </header>
+                            <Link to="/landing" className="link primary"></Link>
+                        </article>
+                        <article style={{backgroundImage: `url(${pic05})`}}>
+                            <header className="major">
+                                <h3>Mitsuki Uesugi</h3>
+                                <p>Wing</p>
+                            </header>
+                            <Link to="/landing" className="link primary"></Link>
+                        </article>
+                        <article style={{backgroundImage: `url(${pic06})`}}>
+                            <header className="major">
+                                <h3>Takeru Shiraishi</h3>
+                                <p>Fullback</p>
+                            </header>
+                            <Link to="/landing" className="link primary"></Link>
+                        </article>
+                        <article style={{backgroundImage: `url(${pic01})`}}>
+                            <header className="major">
+                                <h3>Misaki Muneoka</h3>
+                                <p>Manager</p>
+                            </header>
+                            <Link to="/landing" className="link primary"></Link>
+                        </article>
+                        <article style={{backgroundImage: `url(${pic02})`}}>
+                            <header className="major">
+                                <h3>Misaki Muneoka</h3>
+                                <p>Manager</p>
                             </header>
                             <Link to="/landing" className="link primary"></Link>
                         </article>
