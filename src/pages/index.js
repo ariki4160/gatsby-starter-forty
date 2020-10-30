@@ -25,6 +25,7 @@ import pic23 from '../assets/images/pic23.jpg'
 import pic24 from '../assets/images/pic24.jpg'
 import pic25 from '../assets/images/pic25.jpg'
 
+
 class HomeIndex extends React.Component {
     render() {
 
@@ -178,8 +179,8 @@ class HomeIndex extends React.Component {
                         </article>
                         <article style={{backgroundImage: `url(${pic25})`}}>
                             <header className="major">
-                                <h3>Misaki Muneoka</h3>
-                                <p>Manager</p>
+                                <h3>YouTube</h3>
+                                <p>Link to YouTube</p>
                             </header>
                             <Link to="/landing" className="link primary"></Link>
                         </article>
