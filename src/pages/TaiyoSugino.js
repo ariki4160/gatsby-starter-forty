@@ -4,30 +4,46 @@ import Helmet from 'react-helmet'
 import Layout from '../components/layout'
 import BannerLanding from '../components/BannerTaiyoSugino'
 
-import pic08 from '../assets/images/pic08.jpg'
-import pic09 from '../assets/images/pic09.jpg'
-import pic10 from '../assets/images/pic10.jpg'
+import sugino_01 from '../assets/images/TaiyoSugino/sugino_01.jpg'
+import sugino_02 from '../assets/images/TaiyoSugino/sugino_02.jpg'
+import sugino_03 from '../assets/images/TaiyoSugino/sugino_03.jpg'
+import sugino_04 from '../assets/images/TaiyoSugino/sugino_04.jpg'
+import sugino_05 from '../assets/images/TaiyoSugino/sugino_05.jpg'
+import sugino_06 from '../assets/images/TaiyoSugino/sugino_06.jpg'
+import sugino_07 from '../assets/images/TaiyoSugino/sugino_07.jpg'
+import sugino_08 from '../assets/images/TaiyoSugino/sugino_08.jpg'
+import sugino_09 from '../assets/images/TaiyoSugino/sugino_09.jpg'
+import sugino_10 from '../assets/images/TaiyoSugino/sugino_10.jpg'
+import sugino_11 from '../assets/images/TaiyoSugino/sugino_11.jpg'
+import sugino_12 from '../assets/images/TaiyoSugino/sugino_12.jpg'
+import sugino_13 from '../assets/images/TaiyoSugino/sugino_13.jpg'
+import sugino_14 from '../assets/images/TaiyoSugino/sugino_14.jpg'
+import sugino_15 from '../assets/images/TaiyoSugino/sugino_15.jpg'
+import sugino_16 from '../assets/images/TaiyoSugino/sugino_16.jpg'
+import sugino_17 from '../assets/images/TaiyoSugino/sugino_17.jpg'
+import sugino_18 from '../assets/images/TaiyoSugino/sugino_18.jpg'
+import sugino_19 from '../assets/images/TaiyoSugino/sugino_19.jpg'
+import sugino_20 from '../assets/images/TaiyoSugino/sugino_20.jpg'
+import sugino_21 from '../assets/images/TaiyoSugino/sugino_21.jpg'
+import sugino_22 from '../assets/images/TaiyoSugino/sugino_22.jpg'
+import sugino_23 from '../assets/images/TaiyoSugino/sugino_23.jpg'
+import sugino_24 from '../assets/images/TaiyoSugino/sugino_24.jpg'
+import sugino_25 from '../assets/images/TaiyoSugino/sugino_25.jpg'
+import sugino_26 from '../assets/images/TaiyoSugino/sugino_26.jpg'
+import sugino_27 from '../assets/images/TaiyoSugino/sugino_27.jpg'
+import sugino_28 from '../assets/images/TaiyoSugino/sugino_28.jpg'
+import sugino_29 from '../assets/images/TaiyoSugino/sugino_29.jpg'
+import sugino_30 from '../assets/images/TaiyoSugino/sugino_30.jpg'
+import sugino_31 from '../assets/images/TaiyoSugino/sugino_31.jpg'
+import sugino_32 from '../assets/images/TaiyoSugino/sugino_32.jpg'
+import sugino_33 from '../assets/images/TaiyoSugino/sugino_33.jpg'
+import sugino_34 from '../assets/images/TaiyoSugino/sugino_34.jpg'
+import sugino_35 from '../assets/images/TaiyoSugino/sugino_35.jpg'
+import sugino_36 from '../assets/images/TaiyoSugino/sugino_36.jpg'
+import sugino_37 from '../assets/images/TaiyoSugino/sugino_37.jpg'
+import sugino_38 from '../assets/images/TaiyoSugino/sugino_38.jpg'
+import sugino_39 from '../assets/images/TaiyoSugino/sugino_39.jpg'
 
-import pic01 from '../assets/images/pic01.jpg'
-import pic02 from '../assets/images/pic02.jpg'
-import pic03 from '../assets/images/pic03.jpg'
-import pic04 from '../assets/images/pic04.jpg'
-import pic05 from '../assets/images/pic05.jpg'
-import pic06 from '../assets/images/pic06.jpg'
-import pic12 from '../assets/images/pic12.jpg'
-import pic13 from '../assets/images/pic13.jpg'
-import pic14 from '../assets/images/pic14.jpg'
-import pic15 from '../assets/images/pic15.jpg'
-import pic16 from '../assets/images/pic16.jpg'
-import pic17 from '../assets/images/pic17.jpg'
-import pic18 from '../assets/images/pic18.jpg'
-import pic19 from '../assets/images/pic19.jpg'
-import pic20 from '../assets/images/pic20.jpg'
-import pic21 from '../assets/images/pic21.jpg'
-import pic22 from '../assets/images/pic22.jpg'
-import pic23 from '../assets/images/pic23.jpg'
-import pic24 from '../assets/images/pic24.jpg'
-import pic25 from '../assets/images/pic25.jpg'
 
 const Landing = (props) => (
     <Layout>
@@ -40,26 +56,47 @@ const Landing = (props) => (
 
         <div id="main">
 
-            <section id="one">
-                <div className="inner">
-                    <header className="major">
-                        <h2>Sed amet aliquam</h2>
-                    </header>
-                    <p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
-                </div>
-            </section>
-
             <div className="box alt">
                 <div className="grid-wrapper">
-                    <div className="col-4"><span className="image fit"><img src={pic01} alt="" /></span></div>
-                    <div className="col-4"><span className="image fit"><img src={pic04} alt="" /></span></div>
-                    <div className="col-4"><span className="image fit"><img src={pic05} alt="" /></span></div>
-                    <div className="col-4"><span className="image fit"><img src={pic13} alt="" /></span></div>
-                    <div className="col-4"><span className="image fit"><img src={pic01} alt="" /></span></div>
-                    <div className="col-4"><span className="image fit"><img src={pic04} alt="" /></span></div>
-                    <div className="col-4"><span className="image fit"><img src={pic05} alt="" /></span></div>
-                    <div className="col-4"><span className="image fit"><img src={pic13} alt="" /></span></div>
-                    <div className="col-4"><span className="image fit"><img src={pic01} alt="" /></span></div>
+                    <div className="col-4"><span className="image fit"><img src={sugino_01} alt="" /></span></div>
+                    <div className="col-4"><span className="image fit"><img src={sugino_02} alt="" /></span></div>
+                    <div className="col-4"><span className="image fit"><img src={sugino_03} alt="" /></span></div>
+                    <div className="col-4"><span className="image fit"><img src={sugino_04} alt="" /></span></div>
+                    <div className="col-4"><span className="image fit"><img src={sugino_05} alt="" /></span></div>
+                    <div className="col-4"><span className="image fit"><img src={sugino_06} alt="" /></span></div>
+                    <div className="col-4"><span className="image fit"><img src={sugino_07} alt="" /></span></div>
+                    <div className="col-4"><span className="image fit"><img src={sugino_08} alt="" /></span></div>
+                    <div className="col-4"><span className="image fit"><img src={sugino_09} alt="" /></span></div>
+                    <div className="col-4"><span className="image fit"><img src={sugino_10} alt="" /></span></div>
+                    <div className="col-4"><span className="image fit"><img src={sugino_11} alt="" /></span></div>
+                    <div className="col-4"><span className="image fit"><img src={sugino_12} alt="" /></span></div>
+                    <div className="col-4"><span className="image fit"><img src={sugino_13} alt="" /></span></div>
+                    <div className="col-4"><span className="image fit"><img src={sugino_14} alt="" /></span></div>
+                    <div className="col-4"><span className="image fit"><img src={sugino_15} alt="" /></span></div>
+                    <div className="col-4"><span className="image fit"><img src={sugino_16} alt="" /></span></div>
+                    <div className="col-4"><span className="image fit"><img src={sugino_17} alt="" /></span></div>
+                    <div className="col-4"><span className="image fit"><img src={sugino_18} alt="" /></span></div>
+                    <div className="col-4"><span className="image fit"><img src={sugino_19} alt="" /></span></div>
+                    <div className="col-4"><span className="image fit"><img src={sugino_20} alt="" /></span></div>
+                    <div className="col-4"><span className="image fit"><img src={sugino_21} alt="" /></span></div>
+                    <div className="col-4"><span className="image fit"><img src={sugino_22} alt="" /></span></div>
+                    <div className="col-4"><span className="image fit"><img src={sugino_23} alt="" /></span></div>
+                    <div className="col-4"><span className="image fit"><img src={sugino_24} alt="" /></span></div>
+                    <div className="col-4"><span className="image fit"><img src={sugino_25} alt="" /></span></div>
+                    <div className="col-4"><span className="image fit"><img src={sugino_26} alt="" /></span></div>
+                    <div className="col-4"><span className="image fit"><img src={sugino_27} alt="" /></span></div>
+                    <div className="col-4"><span className="image fit"><img src={sugino_28} alt="" /></span></div>
+                    <div className="col-4"><span className="image fit"><img src={sugino_29} alt="" /></span></div>
+                    <div className="col-4"><span className="image fit"><img src={sugino_30} alt="" /></span></div>
+                    <div className="col-4"><span className="image fit"><img src={sugino_31} alt="" /></span></div>
+                    <div className="col-4"><span className="image fit"><img src={sugino_32} alt="" /></span></div>
+                    <div className="col-4"><span className="image fit"><img src={sugino_33} alt="" /></span></div>
+                    <div className="col-4"><span className="image fit"><img src={sugino_34} alt="" /></span></div>
+                    <div className="col-4"><span className="image fit"><img src={sugino_35} alt="" /></span></div>
+                    <div className="col-4"><span className="image fit"><img src={sugino_36} alt="" /></span></div>
+                    <div className="col-4"><span className="image fit"><img src={sugino_37} alt="" /></span></div>
+                    <div className="col-4"><span className="image fit"><img src={sugino_38} alt="" /></span></div>
+                    <div className="col-4"><span className="image fit"><img src={sugino_39} alt="" /></span></div>
                 </div>
             </div>
 

@@ -7,8 +7,7 @@ const BannerLanding = (props) => (
                 <h1>Taiyo Sugino</h1>
             </header>
             <div className="content">
-                <p>Lorem ipsum dolor sit amet nullam consequat<br />
-                sed veroeros. tempus adipiscing nulla.</p>
+                <p>杉野　太陽<br />captain Standoff</p>
             </div>
         </div>
     </section>
