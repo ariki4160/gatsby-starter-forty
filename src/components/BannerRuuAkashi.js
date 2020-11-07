@@ -1,7 +1,7 @@
 import React from 'react'
 
 const BannerLanding = (props) => (
-    <section id="banner" className="style2">
+    <section id="banner" className="bg">
         <div className="inner">
             <header className="major">
                 <h1>Ruu Akashi</h1>
