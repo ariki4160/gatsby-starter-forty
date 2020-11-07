@@ -119,7 +119,7 @@ class HomeIndex extends React.Component {
                                 <h3>Kouei Tanigawa</h3>
                                 <p>Prop</p>
                             </header>
-                            <Link to="/landing" className="link primary"></Link>
+                            <Link to="/KoueiTanigawa" className="link primary"></Link>
                         </article>
                         <article style={{backgroundImage: `url(${pic17})`}}>
                             <header className="major">
