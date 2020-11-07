@@ -168,7 +168,7 @@ class HomeIndex extends React.Component {
                                 <h3>Takeru Shiraishi</h3>
                                 <p>Fullback</p>
                             </header>
-                            <Link to="/landing" className="link primary"></Link>
+                            <Link to="/TakeruShiraishi" className="link primary"></Link>
                         </article>
                         <article style={{backgroundImage: `url(${pic24})`}}>
                             <header className="major">
