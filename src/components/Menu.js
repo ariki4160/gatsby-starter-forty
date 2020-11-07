@@ -14,8 +14,10 @@ const Menu = (props) => (
                 <li><Link onClick={props.onToggleMenu} to="/ShoInada">Sho Inada</Link></li>
                 <li><Link onClick={props.onToggleMenu} to="/HarutoShirouchi">Haruto Shirouchi</Link></li>
                 <li><Link onClick={props.onToggleMenu} to="/TaikiFujii">Taiki Fujii</Link></li>
-                <li><Link onClick={props.onToggleMenu} to="/landing">Landing</Link></li>
+                <li><Link onClick={props.onToggleMenu} to="/Movie">Movie</Link></li>
                 <li><Link onClick={props.onToggleMenu} to="/elements">Elements</Link></li>
+                <li><Link onClick={props.onToggleMenu} to="/generic">Generic</Link></li>
+
             </ul>
             <ul className="actions vertical">
                 <li><a href="#" className="button special fit">Get Started</a></li>

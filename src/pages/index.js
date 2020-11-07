@@ -179,10 +179,10 @@ class HomeIndex extends React.Component {
                         </article>
                         <article style={{backgroundImage: `url(${pic25})`}}>
                             <header className="major">
-                                <h3>YouTube</h3>
-                                <p>Link to YouTube</p>
+                                <h3>Movie</h3>
+                                <p>View YouTube</p>
                             </header>
-                            <Link to="/landing" className="link primary"></Link>
+                            <Link to="/Movie" className="link primary"></Link>
                         </article>
                     </section>
                     <section id="two">
