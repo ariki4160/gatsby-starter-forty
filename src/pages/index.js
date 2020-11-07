@@ -70,7 +70,7 @@ class HomeIndex extends React.Component {
                                 <h3>Ryo Kawagoe</h3>
                                 <p>Hooker</p>
                             </header>
-                            <Link to="/landing" className="link primary"></Link>
+                            <Link to="/RyoKawagoe" className="link primary"></Link>
                         </article>
                         <article style={{backgroundImage: `url(${pic05})`}}>
                             <header className="major">
