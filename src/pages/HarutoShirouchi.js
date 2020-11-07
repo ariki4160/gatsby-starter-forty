@@ -2,7 +2,7 @@ import React from 'react'
 import { Link } from 'gatsby'
 import Helmet from 'react-helmet'
 import Layout from '../components/layout'
-import BannerLanding from '../components/BannerHarutoShirouchi'
+import BannerLanding from '../components/BannerHarutoShirouchiTest'
 
 import shirouchi_01 from '../assets/images/HarutoShirouchi/shirouchi_01.jpg'
 import shirouchi_02 from '../assets/images/HarutoShirouchi/shirouchi_02.jpg'
