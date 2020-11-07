@@ -48,7 +48,7 @@ import kawagoe_39 from '../assets/images/RyoKawagoe/kawagoe_39.jpg'
 const Landing = (props) => (
     <Layout>
         <Helmet>
-            <title>Taiyo Sugino</title>
+            <title>Ryo Kawagoe</title>
             <meta name="description" content="Landing Page" />
         </Helmet>
 

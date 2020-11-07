@@ -48,7 +48,7 @@ import inada_39 from '../assets/images/ShoInada/inada_39.jpg'
 const Landing = (props) => (
     <Layout>
         <Helmet>
-            <title>Taiyo Sugino</title>
+            <title>Sho Inada</title>
             <meta name="description" content="Landing Page" />
         </Helmet>
 

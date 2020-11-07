@@ -48,7 +48,7 @@ import akashi_39 from '../assets/images/RuuAkashi/akashi_39.jpg'
 const Landing = (props) => (
     <Layout>
         <Helmet>
-            <title>Taiyo Sugino</title>
+            <title>Ruu Akashi</title>
             <meta name="description" content="Landing Page" />
         </Helmet>
 
