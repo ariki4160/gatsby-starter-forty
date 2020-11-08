@@ -218,7 +218,7 @@ const Landing = (props) => (
                   <div className="grid-wrapper">
                     <div className="col-6">
                       <div className="youtube">
-                          <iframe width="" height="" src="https://www.youtube.com/embed/pRk9TQaXRXY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                          <iframe width="" height="" src="https://www.youtube.com/embed/9gSOorL3oJw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                       </div>
                     </div>
                     <div className="col-6">
