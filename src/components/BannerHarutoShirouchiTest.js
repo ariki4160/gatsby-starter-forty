@@ -7,7 +7,7 @@ const BannerLanding = (props) => (
                 <h1>Haruto Shirouchi</h1>
             </header>
             <div className="content">
-                <p>城内　遥杜<br />Centre</p>
+                <p>城内　遥杜<br />Center</p>
             </div>
         </div>
     </section>
