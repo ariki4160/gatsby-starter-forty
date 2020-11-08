@@ -34,8 +34,8 @@ class HomeIndex extends React.Component {
                 <Helmet
                     title="Kurako Rugby 2020"
                     meta={[
-                        { name: 'description', content: 'Sample' },
-                        { name: 'keywords', content: 'sample, something' },
+                        { name: 'description', content: 'Kurako Rugby 2020 Team SUGINO Graduation Memorial Websit 岡山県立倉敷工業高等学校 ラグビー部 2020年度 卒部記念特設サイト' },
+                        { name: 'keywords', content: 'Kurashiki, Raguby, 倉敷工業, ラグビー' },
                     ]}
                 >
                 </Helmet>
@@ -147,7 +147,7 @@ class HomeIndex extends React.Component {
                                 <h3>Tomoya Ariki</h3>
                                 <p>Centre</p>
                             </header>
-                            <Link to="/landing" className="link primary"></Link>
+                            <Link to="/TomoyaAriki" className="link primary"></Link>
                         </article>
                         <article style={{backgroundImage: `url(${pic21})`}}>
                             <header className="major">
