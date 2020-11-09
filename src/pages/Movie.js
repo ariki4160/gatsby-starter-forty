@@ -33,8 +33,8 @@ import pic25 from '../assets/images/pic25.jpg'
 const Landing = (props) => (
     <Layout>
         <Helmet>
-            <title>Landing - Forty by HTML5 UP</title>
-            <meta name="description" content="Landing Page" />
+            <title>Movie - View YouTube</title>
+            <meta name="description" content="岡山県立倉敷工業高等学校ラグビー部2020年度のチームの試合、練習動画をYouTubeでご覧いただけます。" />
         </Helmet>
 
         <BannerLanding />
