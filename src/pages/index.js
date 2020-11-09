@@ -35,7 +35,7 @@ class HomeIndex extends React.Component {
                     title="Kurako Rugby 2020"
                     meta={[
                         { name: 'description', content: 'Kurako Rugby 2020 Team SUGINO Graduation Memorial Websit 岡山県立倉敷工業高等学校 ラグビー部 2020年度 卒部記念特設サイト' },
-                        { name: 'keywords', content: 'Kurashiki, Raguby, 倉敷工業, ラグビー' },
+                        { name: 'keywords', content: 'Kurashiki, Rugby, 倉敷工業, ラグビー' },
                     ]}
                 >
                 </Helmet>
