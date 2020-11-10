@@ -177,13 +177,6 @@ class HomeIndex extends React.Component {
                             </header>
                             <Link to="/MisakiMuneoka" className="link primary"></Link>
                         </article>
-                        <article style={{backgroundImage: `url(${pic25})`}}>
-                            <header className="major">
-                                <h3>Movie</h3>
-                                <p>View YouTube</p>
-                            </header>
-                            <Link to="/Movie" className="link primary"></Link>
-                        </article>
                         <article style={{backgroundImage: `url(${pic03})`}}>
                             <header className="major">
                                 <h3>Group Photo</h3>
@@ -191,10 +184,17 @@ class HomeIndex extends React.Component {
                             </header>
                             <Link to="/Group" className="link primary"></Link>
                         </article>
+                        <article style={{backgroundImage: `url(${pic25})`}}>
+                            <header className="major">
+                                <h3>Movie</h3>
+                                <p>View YouTube</p>
+                            </header>
+                            <Link to="/Movie" className="link primary"></Link>
+                        </article>
                         <article style={{backgroundImage: `url(${pic04})`}}>
                             <header className="major">
-                                <h3>Ryo Kawagoe</h3>
-                                <p>Hooker</p>
+                                <h3>About</h3>
+                                <p>About This Site</p>
                             </header>
                             <Link to="/RyoKawagoe" className="link primary"></Link>
                         </article>
