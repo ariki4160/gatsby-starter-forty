@@ -24,7 +24,8 @@ import pic22 from '../assets/images/pic22.jpg'
 import pic23 from '../assets/images/pic23.jpg'
 import pic24 from '../assets/images/pic24.jpg'
 import pic25 from '../assets/images/pic25.jpg'
-
+import pic26 from '../assets/images/pic26.jpg'
+import pic27 from '../assets/images/pic27.jpg'
 
 class HomeIndex extends React.Component {
     render() {
@@ -177,7 +178,7 @@ class HomeIndex extends React.Component {
                             </header>
                             <Link to="/MisakiMuneoka" className="link primary"></Link>
                         </article>
-                        <article style={{backgroundImage: `url(${pic03})`}}>
+                        <article style={{backgroundImage: `url(${pic26})`}}>
                             <header className="major">
                                 <h3>Group Photo</h3>
                                 <p>Players List</p>
@@ -191,7 +192,7 @@ class HomeIndex extends React.Component {
                             </header>
                             <Link to="/Movie" className="link primary"></Link>
                         </article>
-                        <article style={{backgroundImage: `url(${pic04})`}}>
+                        <article style={{backgroundImage: `url(${pic27})`}}>
                             <header className="major">
                                 <h3>About</h3>
                                 <p>About This Site</p>
