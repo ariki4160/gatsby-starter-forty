@@ -4,7 +4,7 @@ const BannerLanding = (props) => (
     <section id="banner" className="bg">
         <div className="inner">
             <header className="major">
-                <h1>Group Photo</h1>
+                <h1>Group</h1>
             </header>
             <div className="content">
                 <p>集合写真</p>

@@ -180,8 +180,8 @@ class HomeIndex extends React.Component {
                         </article>
                         <article style={{backgroundImage: `url(${pic26})`}}>
                             <header className="major">
-                                <h3>Group Photo</h3>
-                                <p>Players List</p>
+                                <h3>Group</h3>
+                                <p>Group Photo</p>
                             </header>
                             <Link to="/Group" className="link primary"></Link>
                         </article>
