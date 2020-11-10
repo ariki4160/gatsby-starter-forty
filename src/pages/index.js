@@ -197,7 +197,7 @@ class HomeIndex extends React.Component {
                                 <h3>About</h3>
                                 <p>About This Site</p>
                             </header>
-                            <Link to="/RyoKawagoe" className="link primary"></Link>
+                            <Link to="/About" className="link primary"></Link>
                         </article>
                     </section>
 

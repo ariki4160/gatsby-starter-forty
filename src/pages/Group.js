@@ -22,6 +22,10 @@ import group_15 from '../assets/images/Group/group_15.jpg'
 import group_16 from '../assets/images/Group/group_16.jpg'
 import group_17 from '../assets/images/Group/group_17.jpg'
 import group_18 from '../assets/images/Group/group_18.jpg'
+import group_19 from '../assets/images/Group/group_19.jpg'
+import group_20 from '../assets/images/Group/group_20.jpg'
+import group_21 from '../assets/images/Group/group_21.jpg'
+import group_22 from '../assets/images/Group/group_22.jpg'
 
 const Landing = (props) => (
     <Layout>
@@ -54,7 +58,10 @@ const Landing = (props) => (
                     <div className="col-4"><span className="image fit"><img src={group_16} alt="" /></span></div>
                     <div className="col-4"><span className="image fit"><img src={group_17} alt="" /></span></div>
                     <div className="col-4"><span className="image fit"><img src={group_18} alt="" /></span></div>
-
+                    <div className="col-4"><span className="image fit"><img src={group_19} alt="" /></span></div>
+                    <div className="col-4"><span className="image fit"><img src={group_20} alt="" /></span></div>
+                    <div className="col-4"><span className="image fit"><img src={group_21} alt="" /></span></div>
+                    <div className="col-4"><span className="image fit"><img src={group_22} alt="" /></span></div>
                 </div>
             </div>
 
