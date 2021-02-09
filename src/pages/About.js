@@ -18,7 +18,7 @@ const Generic = (props) => (
                         <h1>About</h1>
                     </header>
                     <span className="image main"><img src={pic11} alt="" /></span>
-                    <p>このサイトは、2020年度 岡山県立倉敷工業高等学校 ラグビー部 杉野チーム 卒部記念の特設サイトです。</p>
+                    <p>このサイトは、2020年度 岡山県立倉敷工業高等学校 ラグビー部 杉野組 卒部記念の特設サイトです。</p>
                     <p>写真は、宗岡さん、宍戸さん、岡山県ラグビー写真倶楽部さん、有木より提供いただきました。動画撮影、サイト制作は有木が担当しました。このサイトは、<a href="https://www.netlify.com/" target="_blank">Netlify</a>にて無料で運営しております。</p>
                     <p></p>
                 </div>

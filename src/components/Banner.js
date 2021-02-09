@@ -8,7 +8,7 @@ const Banner = (props) => (
             </header>
             <div className="content">
                 <p>Kurako Rugby 2020 Team SUGINO Graduation Memorial Website <br />
-                岡山県立倉敷工業高等学校 ラグビー部 2020年度 杉野チーム 卒部記念特設サイト</p>
+                岡山県立倉敷工業高等学校 ラグビー部 2020年度 杉野組 卒部記念特設サイト</p>
                 <ul className="actions">
                     <li><a href="#one" className="button next scrolly">Get Started</a></li>
                 </ul>
